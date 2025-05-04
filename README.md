@@ -48,8 +48,8 @@ The best model achieved good performance with high accuracy and F1-score (varies
 ## 🙋‍♂️ Author
 
 **Lochand**  
-Connect with me on [LinkedIn](https://www.linkedin.com/)  
-Check out more projects on [GitHub](https://github.com/your-username)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/lochand)  
+Check out more projects on [GitHub](https://github.com/lochand-dev)
 
 
 
